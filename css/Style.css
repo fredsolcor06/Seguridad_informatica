@@ -1,4 +1,4 @@
-style type="text/css">
+<style type="text/css">
 
 * {
 	padding:0px;
@@ -26,6 +26,14 @@ header {
 	width: 100%;
 	margin-left: 455px;
 	position: auto;
+}
+
+.lectura1{
+	width: 95%;
+	height: 100%;
+	margin-left: 455px;
+	margin-top: 10px;
+	background-color: #A0A0A0;
 }
 
 .seg_inf{
@@ -257,8 +265,13 @@ nav ul li a .quinto{
 	background:#43C7F4;
 }
 
+.color1{
+	background: #F0B429;
+}
 
-
+.color2{
+	background: #A54686;
+}
 /*///////Boton Redes Sociales/////////*/
 .social {
 position: absolute;
