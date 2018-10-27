@@ -275,8 +275,7 @@ nav ul li a .quinto{
 /*///////Boton Redes Sociales/////////*/
 .social {
 position: absolute;
-top: 110px;
-
+top: 150px;
 }
 
 /*.social ul li a {
@@ -287,5 +286,10 @@ text-decoration: none;
 -o-transition:all 500ms;
 transition:all 500ms;
 }*/
+
+.video1{
+	margin-left: 450px;
+	margin-top: 50px;	
+}
 
 </style>
