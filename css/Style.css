@@ -288,5 +288,11 @@ text-decoration: none;
 transition:all 500ms;
 }*/
 
+body{
+	zoom:67%;
+	margin: auto;
+	min-width: 600px;
+	max-width: 2000px;
+}
 
 </style>
